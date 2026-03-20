@@ -1,0 +1,140 @@
+BUBBLESTHEDEV PROPRIETARY SOFTWARE LICENSE AGREEMENT
+
+Copyright (c) 2026 BubblesTheDev.
+All rights reserved.
+
+1. OWNERSHIP AND INTELLECTUAL PROPERTY
+
+The Bubbles Accessibility Input System (BAIS), including all source code, object
+code, compiled binaries, installer packages, design elements, user interface
+components, graphics, trademarks, documentation, and related materials
+(collectively, the "Software"), is and remains the sole and exclusive property
+of BubblesTheDev.
+
+This Agreement does not transfer any ownership interest in the Software. All
+rights not expressly granted are reserved by BubblesTheDev.
+
+2. GRANT OF LICENSE
+
+Subject to your compliance with this Agreement, BubblesTheDev grants you a
+limited, non-exclusive, non-transferable, non-sublicensable, revocable license
+to install and use the Software solely for lawful personal or internal business
+purposes on compatible Windows systems.
+
+No rights are granted to access, modify, or use the source code of the Software
+except where BubblesTheDev expressly permits it in writing.
+
+3. RESTRICTIONS
+
+You may not, directly or indirectly:
+
+- reverse engineer, decompile, disassemble, or attempt to derive the source code
+	of the Software;
+- modify, adapt, translate, or create derivative works based on the Software;
+- distribute, sublicense, lease, rent, lend, sell, or otherwise transfer the
+	Software to any third party without prior written consent;
+- remove, alter, or obscure proprietary notices or labels; or
+- use the Software in violation of applicable law.
+
+Any unauthorized use constitutes a material breach of this Agreement.
+
+4. DISTRIBUTION AND REDISTRIBUTION
+
+The installer package and any associated files may not be copied, mirrored,
+redistributed, or hosted on third-party platforms without prior written
+authorization from BubblesTheDev.
+
+Official distribution channels are determined solely by BubblesTheDev.
+
+5. UPDATES AND MODIFICATIONS
+
+BubblesTheDev may modify, update, suspend, or discontinue the Software at any
+time without prior notice.
+
+Any updates or new versions are governed by this Agreement unless accompanied by
+a separate license agreement.
+
+6. TERM AND TERMINATION
+
+This Agreement becomes effective upon installation or use of the Software and
+remains in effect until terminated.
+
+This Agreement terminates automatically, without notice, if you fail to comply
+with any provision. Upon termination, you must immediately stop using the
+Software and uninstall or destroy all copies in your possession or control.
+
+7. DISCLAIMER OF WARRANTIES
+
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTY OF ANY
+KIND, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE.
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, BUBBLESTHEDEV DISCLAIMS ALL WARRANTIES,
+INCLUDING IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+PURPOSE, TITLE, AND NON-INFRINGEMENT.
+
+BUBBLESTHEDEV DOES NOT WARRANT THAT THE SOFTWARE WILL BE UNINTERRUPTED,
+ERROR-FREE, OR FREE OF HARMFUL COMPONENTS.
+
+8. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, BUBBLESTHEDEV WILL NOT BE LIABLE FOR
+ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE
+DAMAGES, INCLUDING LOSS OF PROFITS, LOSS OF DATA, LOSS OF BUSINESS
+OPPORTUNITIES, OR BUSINESS INTERRUPTION, ARISING OUT OF OR RELATED TO THE USE
+OF OR INABILITY TO USE THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH
+DAMAGES.
+
+IN NO EVENT WILL THE TOTAL LIABILITY OF BUBBLESTHEDEV EXCEED THE AMOUNT PAID BY
+YOU, IF ANY, FOR THE SOFTWARE.
+
+9. GOVERNING LAW AND VENUE
+
+This Agreement is governed by the laws of the State of Michigan, United States,
+without regard to conflict of law principles.
+
+Any dispute arising out of or relating to this Agreement or the Software must be
+brought exclusively in the state or federal courts located in Michigan, and you
+consent to the personal jurisdiction and venue of those courts.
+
+10. INJUNCTIVE RELIEF
+
+You acknowledge that unauthorized use, reproduction, or distribution of the
+Software may cause irreparable harm to BubblesTheDev for which monetary damages
+would be inadequate. BubblesTheDev is therefore entitled to seek injunctive or
+equitable relief in addition to any other remedies available at law or in
+equity.
+
+11. SEVERABILITY
+
+If any provision of this Agreement is held invalid or unenforceable, the
+remaining provisions remain in full force and effect.
+
+12. ENTIRE AGREEMENT
+
+This Agreement constitutes the entire agreement between you and BubblesTheDev
+regarding the Software and supersedes all prior or contemporaneous agreements,
+communications, and understandings, whether written or oral.
+
+13. DATA COLLECTION AND PRIVACY NOTICE
+
+BubblesTheDev is committed to protecting user privacy.
+
+The Bubbles Accessibility Input System (BAIS) does not collect, transmit, sell,
+store, or share personal data, usage data, telemetry, analytics data, browsing
+history, or device identifiers with BubblesTheDev or third parties.
+
+Specifically:
+
+- no telemetry services are embedded in the Software;
+- no background analytics services are executed;
+- no behavioral tracking mechanisms are included;
+- no advertising identifiers are generated or transmitted;
+- no cloud-based synchronization features are implemented; and
+- no artificial intelligence, machine learning, or remote inference systems are
+	integrated into the Software.
+
+The Software does not establish outbound connections to BubblesTheDev-controlled
+servers for tracking or data collection purposes.
+
+BY INSTALLING OR USING THE SOFTWARE, YOU ACKNOWLEDGE THAT YOU HAVE READ,
+UNDERSTOOD, AND AGREE TO BE BOUND BY THIS AGREEMENT.
