@@ -1,0 +1,44 @@
+# Node.js
+node_modules/
+
+# Build output
+/dist/
+/build/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Electron
+*.asar
+
+# Installer output
+*.exe
+*.msi
+
+# Misc
+.env
+.idea/
+.vscode/
+
+# Profiles
+profiles/*.bak
+
+# Ignore test coverage
+coverage/
+
+# Ignore package-lock
+package-lock.json
+yarn.lock
+
+# Ignore generated icons
+*.ico
+
+# Ignore changelog backup
+change-log.old.md
