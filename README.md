@@ -14,6 +14,8 @@ BAIS is designed as a foundation for lawful accessibility workflows only. It doe
 
 Current release: `0.0.20`
 
+[Download BAIS](https://github.com/KernFerm/Bubbles-Accessibility-Input-System-BAIS/releases/tag/Bubbles-Accessibility-Input-System-BAIS)
+
 ---
 
 ## 🚀 What's New in 0.0.20
