@@ -58,3 +58,5 @@ We’ll work with you to get everything running smoothly.
 Thank you for using BAIS and helping improve accessibility technology.
 
 Your feedback helps make this project better for everyone.
+
+### Part of FNBubbles420 Org 501(c)(3)
