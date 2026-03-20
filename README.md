@@ -51,18 +51,6 @@ BAIS is a visible user-controlled utility. It is not presented as a background s
 
 ---
 
-## Installer Distribution
-
-End users are not expected to create their own installer.
-
-- the installer will be built and provided by you
-- end users should install BAIS using the provided installer package
-- the source repository and build steps are primarily for development and maintenance
-
-If you distribute BAIS publicly, provide the installer artifact you generate rather than instructing end users to package the application themselves.
-
----
-
 ## What The Application Does
 
 BAIS helps you preview and manage accessibility-oriented input settings for different input sources in one place.
