@@ -10,17 +10,43 @@
 
 Bubbles Accessibility Input System (BAIS) is a desktop accessibility input utility for Windows. It gives you a clear, visible place to tune safe simulated input behavior using profiles, sensitivity controls, deadzone controls, smoothing, and shared or inherited settings.
 
+> BAIS is built to be transparent, safe, and accessibility-focused — never hidden or misleading.
+
 BAIS is designed as a foundation for lawful accessibility workflows only. It does not hide itself, run stealth processes, tamper with memory, spoof processes, or attempt to bypass protections.
 
 Current release: `0.0.20`
 
+---
+
 ## ⬇️ Download BAIS
 
-👉 [Download Latest Installer (v0.0.20)](https://github.com/KernFerm/Bubbles-Accessibility-Input-System-BAIS/releases/tag/Bubbles-Accessibility-Input-System-BAIS)
+👉 [Download Latest Installer (v0.0.20)](https://github.com/KernFerm/Bubbles-Accessibility-Input-System-BAIS/releases/latest)
 
-- > Windows x64 Installer
-- > No setup required beyond installer
-- > Safe, visible application
+- Windows x64 Installer  
+- No setup required beyond installer  
+- Safe, visible application  
+
+---
+
+## 💬 Community & Support
+
+If you have any issues, questions, or need help:
+
+👉  [https://discord.gg/h7Fsvb4YSX](https://discord.gg/h7Fsvb4YSX)
+
+Join the Discord and let a staff member know what issue you are having.
+
+Our team will help you:
+- troubleshoot problems
+- set up your device
+- understand settings
+- improve your experience with BAIS
+
+---
+
+## 📸 Preview
+
+Coming soon
 
 ---
 
@@ -143,123 +169,18 @@ The application includes a visible top menu bar with quick actions.
 In the Devices panel:
 
 - click Refresh Devices if needed
-- choose an Xbox controller, PlayStation controller, accessibility controller, keyboard, mouse or trackpad, touch input, assistive switch input, or eye gaze input from the selector
+- choose your input device from the selector
 - read the device description shown in the list
 
 ### 3. Adjust Settings
 
 Use the Shared, Hip, and ADS sections to tune behavior.
 
-Available settings include:
-
-- Shared Deadzone
-- Shared Smoothing
-- ADS Activation for the selected input source
-- Hip Aim Mouse Sensitivity
-- Hip Deadzone
-- Hip Smoothing
-- ADS Mouse Sensitivity
-- ADS Deadzone
-- ADS Smoothing
-- Settings Inheritance
-
 ### 4. Start The Safe Simulation Preview
 
 Click Start to begin the visible simulation preview.
 
-While running:
-
-- gamepad input uses the selected controller sticks and the user-selected ADS button
-- keyboard input uses WASD or arrow keys, with Shift used for ADS mode by default and a Disabled option available if the user does not want keyboard ADS
-- mouse or trackpad input uses pointer movement, with right mouse button down used for ADS mode by default
-- touch input uses drag movement, with two touch points used for ADS mode
-- assistive switch input uses keyboard-style movement and can use a configured ADS key or Disabled
-- eye gaze or head tracking input uses pointer-style movement and can use a configured ADS key
-
-Use Stop to end the preview normally.
-
-Use Emergency Stop to halt the preview immediately.
-
----
-
-## Settings Explained
-
-### Hip Aim Mouse Sensitivity
-
-Controls how strongly Hip movement is scaled in the simulation preview.
-
-### ADS Mouse Sensitivity
-
-Controls how strongly Aim Down Sight movement is scaled in the simulation preview.
-
-### ADS Activation
-
-Each input source can use its own ADS trigger.
-
-- Mouse or trackpad defaults to right mouse button down
-- Keyboard defaults to Shift
-- Keyboard ADS can be disabled if the user does not want a keyboard ADS trigger
-- Touch defaults to two touch points
-- Gamepads default to left trigger and can be changed per controller family
-- Accessibility switch input defaults to Shift and can also be disabled
-- Eye gaze or head tracking can use a configured ADS key while pointer movement remains active
-
-### Deadzone
-
-Deadzone removes small movements near the center point. This is useful when you want to reduce unwanted drift or accidental motion.
-
-### Smoothing
-
-Smoothing softens changes between one output value and the next.
-
-Available modes:
-
-- Off
-- Light
-- Balanced
-- Strong
-
-Default smoothing is Balanced.
-
-### Settings Inheritance
-
-When Settings Inheritance is enabled, ADS deadzone and ADS smoothing inherit the Shared values. BAIS makes this clear by disabling those ADS controls and showing the inherited values directly in the UI.
-
-When Settings Inheritance is disabled, ADS deadzone and ADS smoothing become fully editable on their own.
-
----
-
-## Profiles
-
-Profiles are saved as JSON files in the per-user application data profile store. Bundled defaults are seeded on first run.
-
-You can:
-
-- create or update a profile by entering a profile name and clicking Save Profile
-- choose an existing profile from the dropdown and click Load Profile
-- refresh the available profile list from the Profiles menu or the UI
-
-The included `default.json` file provides a starting profile.
-
----
-
-## Change Log
-
-Version history is tracked in [change-log.md](./change-log.md).
-
----
-
-## For Users
-
-BAIS is meant to be easy to understand:
-
-- choose an input source
-- tune values
-- preview the simulated output
-- save a profile
-- load it later
-
-Everything is visible and user-controlled.
+Use Stop or Emergency Stop as needed.
 
 ---
 
