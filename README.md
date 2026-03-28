@@ -8,13 +8,29 @@
 ![Accessibility](https://img.shields.io/badge/focus-Accessibility-green)
 ![Security](https://img.shields.io/badge/security-No%20Stealth%20Behavior-brightgreen)
 
-Bubbles Accessibility Input System (BAIS) is a desktop accessibility input utility for Windows. It gives you a clear, visible place to tune safe simulated input behavior using profiles, sensitivity controls, deadzone controls, smoothing, and shared or inherited settings.
+## ♿ Accessibility Input Configuration System
 
-> BAIS is built to be transparent, safe, and accessibility-focused — never hidden or misleading.
+BAIS is a Windows desktop application designed to help users **improve control, stability, and comfort** when using different input devices.
 
-BAIS is designed as a foundation for lawful accessibility workflows only. It does not hide itself, run stealth processes, tamper with memory, spoof processes, or attempt to bypass protections.
+It provides a **clear, visible environment** to safely configure and understand how input adjustments behave — especially for accessibility-focused setups.
 
-Current release: `0.0.20`
+✔️ Fully user-controlled  
+✔️ No hidden processes  
+✔️ No automation  
+✔️ Built for accessibility and transparency  
+
+---
+
+## 🧠 What BAIS Does
+
+BAIS helps users:
+
+- improve consistency of movement  
+- adjust sensitivity and responsiveness  
+- reduce instability or jitter  
+- create reusable accessibility profiles  
+
+All adjustments are visible and controlled by the user at all times.
 
 ---
 
@@ -23,24 +39,23 @@ Current release: `0.0.20`
 👉 [Download Latest Installer (v0.0.20)](https://github.com/KernFerm/Bubbles-Accessibility-Input-System-BAIS/releases/latest)
 
 - Windows x64 Installer  
-- No setup required beyond installer  
-- Safe, visible application  
+- Simple setup  
+- Visible and safe application  
 
 ---
 
 ## 💬 Community & Support
 
-If you have any issues, questions, or need help:
+Need help or have questions?
 
-👉  [https://discord.gg/h7Fsvb4YSX](https://discord.gg/h7Fsvb4YSX)
+👉 https://discord.gg/h7Fsvb4YSX
 
-Join the Discord and let a staff member know what issue you are having.
+Our team can help you:
 
-Our team will help you:
-- troubleshoot problems
-- set up your device
-- understand settings
-- improve your experience with BAIS
+- troubleshoot issues  
+- configure your setup  
+- understand settings  
+- improve your experience  
 
 ---
 
@@ -52,148 +67,127 @@ Coming soon
 
 ## 🚀 What's New in 0.0.20
 
-- Added **Hip Aim Mouse Sensitivity control**
-- Added **ADS Mouse Sensitivity control**
+- Added **Hip Sensitivity control**
+- Added **ADS Sensitivity control**
 - Added **Smoothing modes**
   - Off
   - Light
   - Balanced (default)
   - Strong
 - Added **Settings Inheritance system**
-  - Shared → ADS inheritance behavior
-  - Visual UI indication for inherited values
-- Improved **profile system stability**
-- Improved **device detection reliability**
-- Improved **UI clarity and layout**
+- Improved profile system stability
+- Improved device detection
+- Improved UI clarity
 
 ---
 
-## What BAIS Is
+## ⚙️ Core Features
 
-BAIS is a Windows desktop application focused on accessible input configuration and safe simulation previewing.
+### 🎮 Input Stability & Control
 
-It is intended to help users:
+Designed to support users who experience:
 
-- detect supported controllers and accessibility-oriented input sources
-- preview how profile changes affect simulated movement output
-- tune Hip and ADS behavior without hidden background behavior
-- save reusable profiles for different devices or accessibility needs
+- inconsistent movement  
+- reduced fine motor control  
+- difficulty with precision  
 
-BAIS is a visible user-controlled utility. It is not presented as a background service, hidden component, or stealth tool.
+Includes:
 
----
+- sensitivity adjustments  
+- smoothing controls  
+- deadzone tuning  
+- response shaping  
 
-## What The Application Does
-
-BAIS helps you preview and manage accessibility-oriented input settings for different input sources in one place.
-
-You can use it to:
-
-- detect available gamepads automatically
-- work with Xbox controllers
-- work with PlayStation controllers
-- work with accessibility controllers exposed through the Gamepad API
-- work with keyboard input as an accessibility source
-- work with mouse or trackpad input as an accessibility source
-- work with touch-capable devices when available
-- work with assistive switch or remapped keyboard-style input
-- work with eye gaze or head tracking pointer-style input
-- adjust **Hip Aim Mouse Sensitivity**
-- adjust **ADS Mouse Sensitivity**
-- adjust deadzone behavior
-- apply smoothing modes to the safe simulation preview
-- use shared or inherited settings
-- choose ADS activation per input source
-- save and load settings as JSON profiles
-
-The app shows a live simulated output preview so you can see how your settings affect movement values before expanding the project further.
+All movement remains **fully user-controlled**.
 
 ---
 
-## Supported Input Sources
+### 🧩 Device Support
 
-BAIS currently supports these visible input sources:
+BAIS works with a wide range of input sources:
 
-- Xbox controllers detected through the Gamepad API
-- PlayStation controllers detected through the Gamepad API
-- accessibility controllers detected through the Gamepad API
-- keyboard input using WASD or arrow keys
-- mouse or trackpad input
-- touch input on touch-capable systems
-- assistive switch or remapped keyboard-style input
-- eye gaze or head tracking pointer-style input
-
----
-
-## Top Menu Bar
-
-The application includes a visible top menu bar with quick actions.
-
-### File
-
-- Refresh Devices
-- Start Simulation
-- Stop Simulation
-- Emergency Stop
-- Exit
-
-### Profiles
-
-- Save Current Profile
-- Load Selected Profile
-- Refresh Profile List
-
-### View
-
-- Reload Window
-- Force Reload Window
-- Toggle Developer Tools
-- Zoom controls
-
-### Help
-
-- Usage Tips
-- About BAIS
+- Xbox controllers  
+- PlayStation controllers  
+- accessibility controllers  
+- keyboard input  
+- mouse / trackpad  
+- touch input  
+- assistive switches  
+- eye tracking / head tracking devices  
 
 ---
 
-## How To Use BAIS
+### 🧠 Profile System
 
-### 1. Start The Application
+- Save and load custom profiles  
+- Adjust settings per device  
+- Share or inherit configuration values  
+- JSON-based profile storage  
 
-- Launch BAIS from the installer or development environment
-- Wait for the interface to fully load
+---
 
-### 2. Choose An Input Source
+### 👁 Live Simulation Preview
 
-In the Devices panel:
+BAIS includes a **visible simulation preview** so users can:
 
-- click Refresh Devices if needed
-- choose your input device from the selector
-- read the device description shown in the list
+- see how adjustments affect movement  
+- test configurations safely  
+- understand behavior before using it elsewhere  
+
+No hidden background behavior occurs.
+
+---
+
+## 🛡 Safety & Transparency
+
+BAIS is built with strict accessibility-first principles:
+
+- no stealth behavior  
+- no process masking  
+- no memory access or modification  
+- no injection into other software  
+- no automation of user input  
+
+Everything is **visible, controllable, and user-driven**.
+
+---
+
+## 🧭 How To Use BAIS
+
+### 1. Launch the Application
+
+Start BAIS and wait for the interface to load.
+
+### 2. Select Input Device
+
+- click "Refresh Devices"  
+- choose your device  
 
 ### 3. Adjust Settings
 
-Use the Shared, Hip, and ADS sections to tune behavior.
+Tune sensitivity, smoothing, and behavior.
 
-### 4. Start The Safe Simulation Preview
+### 4. Start Simulation
 
-Click Start to begin the visible simulation preview.
-
-Use Stop or Emergency Stop as needed.
+Use the simulation preview to test settings safely.
 
 ---
 
-## Accessibility And Safety Scope
+## 🎯 Purpose
 
-BAIS is for lawful accessibility and input customization only.
+BAIS is built to support:
 
-It does not include:
+- accessibility workflows  
+- adaptive device users  
+- individuals with mobility challenges  
+- developers exploring input accessibility  
 
-- hidden processes
-- anti-detection behavior
-- anti-cheat evasion
-- process masking or spoofing
-- driver-level code
-- memory tampering
-- stealth injection
+---
+
+## 📜 License
+
+Proprietary – All Rights Reserved  
+
+---
+
+© BubblesTheDev
