@@ -32,6 +32,10 @@ BAIS helps users:
 
 All adjustments are visible and controlled by the user at all times.
 
+
+# Check[Release](https://github.com/KernFerm/BAIS-Accessibility-Input-System/releases)
+
+
 ---
 
 ## ⬇️ Download BAIS
