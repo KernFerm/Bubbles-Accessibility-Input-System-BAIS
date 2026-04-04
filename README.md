@@ -50,6 +50,8 @@ All adjustments are visible and controlled by the user at all times.
 This is just the beginning… appreciate everyone rocking with us 💙
 Stay ready 👀
 
+> This is part of FNBubbles420 Org 501(c)(3)
+
 
 
 ---
