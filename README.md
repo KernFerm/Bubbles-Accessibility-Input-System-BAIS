@@ -37,8 +37,8 @@ All adjustments are visible and controlled by the user at all times.
 
 
 # 🔥 **BAIS v0.0.57 IS COMING** 🔥
-
-- We’re getting close… **Version 0.0.57 drops soon** — aiming for before Summer 2026 🚀
+> Public Release is Delayed. TBD on release, getting a 3d printer.
+- We’re getting close… **Version 0.0.57 drops soon** — Summer 2026 🚀
 
 - 💥 First-ever **BAIS Accessibility Device** launch
 - ⚡ Plug-and-play experience
